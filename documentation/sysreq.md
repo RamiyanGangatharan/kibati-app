@@ -1,0 +1,6 @@
+- This is a car part storefront with a functioning marketplace
+- admin page with a CMS
+- payment system imported from external sources
+- user profile system
+- have a transactions section to put items for sale
+- have a profile page for each user 
