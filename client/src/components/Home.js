@@ -27,8 +27,6 @@ const Home = () => {
         <p className="mb-4 lead">Drive with confidence, knowing KIBATI has you're back.</p>
         <div className="d-grid gap-2 d-sm-flex justify-content-center">
           <Link to="/store" className="btn btn-outline-secondary btn-lg px-4 hover-effect me-3"> Shop Now</Link>
-          <Link to="/about" className="btn btn-outline-secondary btn-lg px-4 hover-effect me-3">About Us</Link>
-          <Link to="/contact" className="btn btn-outline-secondary btn-lg px-4 hover-effect me-3">Contact</Link>
         </div>
       </div>
     </section>

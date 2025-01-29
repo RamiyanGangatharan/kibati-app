@@ -1,0 +1,12 @@
+.card
+{
+    width: 400px;
+    height: fit-content;
+}
+
+.store-image
+{
+    width: 100%;
+    height: 225px;
+    margin-bottom: 10px;
+}
